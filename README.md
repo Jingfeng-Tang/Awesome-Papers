@@ -3,6 +3,7 @@
 ## 表征学习（鲁棒、泛化）
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [Can Cross Entropy Loss Be Robust to Label Noise?](https://www.ijcai.org/Proceedings/2020/0305.pdf) | TCE | IJCAI 2020 | - | 泰勒展开交叉熵，使其有界 |
 | [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://openreview.net/forum?id=r1Ddp1-Rb&;noteId=r1Ddp1-Rb) | mixup | ICLR 2018 | [code](https://github.com/facebookresearch/mixup-cifar10) | 线性插值，归纳偏置 |
 
 
