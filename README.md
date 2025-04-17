@@ -3,6 +3,7 @@
 ## 表征学习（鲁棒、泛化）
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://proceedings.neurips.cc/paper/2018/hash/f2925f97bc13ad2852a7a551802feea0-Abstract.html) | GCE | NeurIPS 2018 | [code](https://github.com/AlanChou/Truncated-Loss) | 调整了损失梯度前的权重，弱化其对预测与标签之前不一致的惩罚 |
 | [Can Cross Entropy Loss Be Robust to Label Noise?](https://www.ijcai.org/Proceedings/2020/0305.pdf) | TCE | IJCAI 2020 | - | 泰勒展开交叉熵，使其有界 |
 | [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://openreview.net/forum?id=r1Ddp1-Rb&;noteId=r1Ddp1-Rb) | mixup | ICLR 2018 | [code](https://github.com/facebookresearch/mixup-cifar10) | 线性插值，归纳偏置 |
 
