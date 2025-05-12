@@ -1,5 +1,11 @@
 # Awesome-Papers
 
+## 标签分布学习
+| Title | Abbreviation | Venue | Code | aaa |
+|-----|-----|-----|-----|-----|
+| [Label Distribution Learning](https://ieeexplore.ieee.org/document/7439855) | LDL | TKDE 2016 | -- | 一种新的学习范式，为了解决标签形式非数值而是分布形式的问题，这种分布不是指概率分布，而是标签对样本的描述度，也就是0.2和0.8的标签都描绘了样本，但是描述程度不同 |
+
+
 ## 表征学习（鲁棒、泛化）
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
